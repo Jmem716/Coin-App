@@ -1,0 +1,20 @@
+C:\Users\Raquel\source\repos\CoinApp\CoinApp\bin\Debug\CoinApp.exe.config
+C:\Users\Raquel\source\repos\CoinApp\CoinApp\bin\Debug\CoinApp.exe
+C:\Users\Raquel\source\repos\CoinApp\CoinApp\bin\Debug\CoinApp.pdb
+C:\Users\Raquel\source\repos\CoinApp\CoinApp\obj\Debug\CoinApp.csprojResolveAssemblyReference.cache
+C:\Users\Raquel\source\repos\CoinApp\CoinApp\obj\Debug\CoinApp.CoinApp.resources
+C:\Users\Raquel\source\repos\CoinApp\CoinApp\obj\Debug\CoinApp.Properties.Resources.resources
+C:\Users\Raquel\source\repos\CoinApp\CoinApp\obj\Debug\CoinApp.csproj.GenerateResource.Cache
+C:\Users\Raquel\source\repos\CoinApp\CoinApp\obj\Debug\CoinApp.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\source\repos\CoinApp\CoinApp\obj\Debug\CoinApp.exe
+C:\Users\Raquel\source\repos\CoinApp\CoinApp\obj\Debug\CoinApp.pdb
+C:\Users\Raquel\Documents\C# Files\CoinApp\CoinApp\obj\Debug\CoinApp.csprojResolveAssemblyReference.cache
+C:\Users\Raquel\Documents\C# Files\CoinApp\CoinApp\obj\Debug\CoinApp.exe
+C:\Users\Raquel\Documents\C# Files\CoinApp\CoinApp\obj\Debug\CoinApp.pdb
+C:\Users\Raquel\Documents\C# Files\CoinApp\CoinApp\bin\Debug\CoinApp.exe.config
+C:\Users\Raquel\Documents\C# Files\CoinApp\CoinApp\bin\Debug\CoinApp.exe
+C:\Users\Raquel\Documents\C# Files\CoinApp\CoinApp\bin\Debug\CoinApp.pdb
+C:\Users\Raquel\Documents\C# Files\CoinApp\CoinApp\obj\Debug\CoinApp.CoinApp.resources
+C:\Users\Raquel\Documents\C# Files\CoinApp\CoinApp\obj\Debug\CoinApp.Properties.Resources.resources
+C:\Users\Raquel\Documents\C# Files\CoinApp\CoinApp\obj\Debug\CoinApp.csproj.GenerateResource.Cache
+C:\Users\Raquel\Documents\C# Files\CoinApp\CoinApp\obj\Debug\CoinApp.csproj.CoreCompileInputs.cache
